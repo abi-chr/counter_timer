@@ -1,0 +1,5 @@
+This project is a basic timer that takes input in seconds and counts down to completion, displaying a completed message.
+
+Made on python 3.14
+Requires packages:
+ - time
